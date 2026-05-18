@@ -4,7 +4,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 
 > A comprehensive, end-to-end Exploratory Data Analysis of **51,000+ restaurants** listed on Zomato across Bengaluru — uncovering patterns in cuisine preferences, pricing, ratings, location density, and delivery behaviour.
 
